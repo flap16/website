@@ -3,36 +3,36 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>/</loc>
+    <loc>/var/www/html/blogdown/public/</loc>
     <lastmod>2016-12-30T21:49:57-07:00</lastmod>
   </url>
   
   <url>
-    <loc>/2016/12/30/a-plain-markdown-post/</loc>
+    <loc>/var/www/html/blogdown/public/2016/12/30/a-plain-markdown-post/</loc>
     <lastmod>2016-12-30T21:49:57-07:00</lastmod>
   </url>
   
   <url>
-    <loc>/post/</loc>
+    <loc>/var/www/html/blogdown/public/post/</loc>
     <lastmod>2016-12-30T21:49:57-07:00</lastmod>
   </url>
   
   <url>
-    <loc>/about/</loc>
+    <loc>/var/www/html/blogdown/public/about/</loc>
     <lastmod>2016-05-05T21:48:51-07:00</lastmod>
   </url>
   
   <url>
-    <loc>/2015/01/01/lorem-ipsum/</loc>
+    <loc>/var/www/html/blogdown/public/2015/01/01/lorem-ipsum/</loc>
     <lastmod>2015-01-01T13:09:13-06:00</lastmod>
   </url>
   
   <url>
-    <loc>/categories/</loc>
+    <loc>/var/www/html/blogdown/public/categories/</loc>
   </url>
   
   <url>
-    <loc>/tags/</loc>
+    <loc>/var/www/html/blogdown/public/tags/</loc>
   </url>
   
 </urlset>
