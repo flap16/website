@@ -1,4 +1,4 @@
-baseurl = "/var/www/html/blogdown/public"
+baseurl = "/var/www/website/public"
 languageCode = "en-us"
 title = "A Hugo website"
 theme = "hugo-lithium"

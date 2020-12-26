@@ -2,9 +2,9 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on A Hugo website</title>
-    <link>/var/www/html/blogdown/public/tags/</link>
+    <link>/var/www/website/public/tags/</link>
     <description>Recent content in Tags on A Hugo website</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="/var/www/html/blogdown/public/tags/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language><atom:link href="/var/www/website/public/tags/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
